@@ -1,2 +1,2 @@
 # Email-Sentiment-Analysis
-Reading and Analyzing incoming emails to determine whether they are positive, negative or neutral using a deep learning classifier.
+An AI model that reads and Analyzes incoming emails and determines whether they are positive, negative or neutral using a Deep learning classifier.
